@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asierfernandezmotilva-maker.github.io/caducamovil/sitemap.xml

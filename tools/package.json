@@ -1,0 +1,12 @@
+{
+  "name": "caducamovil-pruebas",
+  "private": true,
+  "description": "Pruebas de extremo a extremo de CaducaMóvil (solo desarrollo: la carpeta tools/ no se publica).",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0"
+  }
+}
